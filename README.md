@@ -24,5 +24,5 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - background-position (need to review)
 
 ## Author
-- Frontend Mentor - [@takameg](https://www.frontendmentor.io/profile/takameg)
+- Frontend Mentor - [@takam3g](https://www.frontendmentor.io/profile/takam3g)
 - Twitter - [@takam3g](https://www.twitter.com/takam3g)
